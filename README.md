@@ -1,5 +1,4 @@
-## Preservation Documentation
-## York University Libraries
+## Preservation Documentation, York University Libraries
 
 ### Description
 
