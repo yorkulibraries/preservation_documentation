@@ -1,4 +1,4 @@
-# York University Library URL and File Naming Policy
+# York University Library URL Policy
 
 **DRAFT**
 
@@ -27,7 +27,3 @@ Example:
 * **Photograph**: New Woodbine : racehorses train for opening of season
 * **Canonical URI**: http://digital.library.yorku.ca/islandora/object/yul:88675
 * **Aliases URL**: http://digital.library.yorku.ca/yul-88675/new-woodbine-racehorses-train-opening-season
-
-### URIs for individual files and events created by York University Libraries
-
-
