@@ -1,6 +1,4 @@
-# York University Library URL Policy
-
-**DRAFT**
+# York University Library URI Policy
 
 ## Policy Statement
 
