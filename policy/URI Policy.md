@@ -25,3 +25,50 @@ Example:
 * **Photograph**: New Woodbine : racehorses train for opening of season
 * **Canonical URI**: http://digital.library.yorku.ca/islandora/object/yul:88675
 * **Aliases URL**: http://digital.library.yorku.ca/yul-88675/new-woodbine-racehorses-train-opening-season
+
+### Islandora object datastream
+
+York University Digital Library object datastream canonical URIs are consistently constructed in the folloiwng manner:
+
+* `/islandora/object/PID/datastream/DATASTREAM_NAME/view`
+* `/islandora/object/PID/datastream/DATASTREAM_NAME/download`
+* `[fedora:pid]/[fedora:label]/datastream/DATASTREAM_NAME/view`
+* `[fedora:pid]/[fedora:label]/datastream/DATASTREAM_NAME/download`
+
+Example:
+
+* **Photograph**: New Woodbine : racehorses train for opening of season
+* **Canonical URI**: http://digital.library.yorku.ca/islandora/object/yul:88675/datastream/JPG/view
+* **Aliases URL**: http://digital.library.yorku.ca/yul-88675/new-woodbine-racehorses-train-opening-season/datastream/JPG/download
+
+### Publicly available datastream names
+
+Metadata:
+
+* `MODS` (Descriptive metadata)
+* `DC` (Descriptive metadata)
+* `TECHMD_FITS` (Technical metadata)
+* `RELS-EXT` (Fedora Object to Object Relationship)
+
+Images:
+
+* `TN` (Thumbnail)
+* `JPG` (Medium sized JPG)
+
+Audio:
+
+* `TN` (Thumbnail)
+* `PROXY_MP3` (Streaming quality MP3)
+
+Video:
+
+* `TN` (Thumbnail)
+* `MP4` (Streaming quality MP4)
+
+Web ARChive:
+
+* `TN` (Thumbnail)
+* `JPG` (Medium sized JPEG)
+* `WARC_CSV` (WARC Index)
+* `WARC_FILTERED` (WARC filtered)
+* `OBJ` (Warc)
