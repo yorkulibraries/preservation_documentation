@@ -8,4 +8,4 @@ As outlined in the [Preservation Implementation Plan](http://digital.library.yor
 
 Content providers granting this right have consented to having their content migrated to new formats for the purposes of long-term preservation. In the interest of long-term preservation, it is important that York University Library be allowed to transform files in its care from formats deemed as being in the danger of becoming obsolete into ones more suited to long-term interpretability. This is the right necessary to enable the “full” preservation level.
 
-Without this right having been assigned, York University Library can only ensure file integrity, no the preservation of the intellectual contents of an archival unit.
+Without this right having been assigned, York University Library can only ensure file integrity, not the preservation of the intellectual contents of an archival unit.
