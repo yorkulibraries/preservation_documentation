@@ -43,22 +43,28 @@ Example:
 
 ### Publicly available datastream names
 
-Metadata:
+Audio:
 
-* `MODS` (Descriptive metadata)
-* `DC` (Descriptive metadata)
-* `TECHMD_FITS` (Technical metadata)
-* `RELS-EXT` (Fedora Object to Object Relationship)
+* `TN` (Thumbnail)
+* `PROXY_MP3` (Streaming quality MP3)
+
+Book:
+
+* `TN` (Thumbnail)
+* `ORIGINAL_PDF` (Only for 
+Buddhism Across Boundaries: Buddhist Periodicals and Books from Colonial Burma collection )
 
 Images:
 
 * `TN` (Thumbnail)
 * `JPG` (Medium sized JPG)
 
-Audio:
+Metadata:
 
-* `TN` (Thumbnail)
-* `PROXY_MP3` (Streaming quality MP3)
+* `MODS` (Descriptive metadata)
+* `DC` (Descriptive metadata)
+* `TECHMD_FITS` (Technical metadata)
+* `RELS-EXT` (Fedora Object to Object Relationship)
 
 Video:
 
