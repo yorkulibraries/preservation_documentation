@@ -58,6 +58,7 @@ Images:
 
 * `TN` (Thumbnail)
 * `JPG` (Medium sized JPG)
+* `OCR` (OCR'd text)
 
 Metadata:
 
