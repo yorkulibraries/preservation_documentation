@@ -33,5 +33,5 @@ The criteria to be assessed when determining preservation level include:
 
 Compliance with all of these criteria is necessary for an object to be subject to the full extent of preservation activities., as defined in the Preservation Implementation Plan. Failure or partial compliance does not necessarily mean that an object cannot be ingested into the repository, but an inability to meet these criteria will result in the use of a less robust preservation plan.
 
-**Review and Revision**: YUL commits to the review and revision of its preservation practices and the corresponding documentation, as outlined in the Review Cycle Policy.
+**Review and Revision**: YUL commits to the review and revision of its preservation practices and the corresponding documentation, as outlined in the [Review Cycle for Documentation Policy](https://digital.library.yorku.ca/documentation/review-cycle-documentation-policy).
 
