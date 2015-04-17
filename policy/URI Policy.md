@@ -12,7 +12,7 @@ URIs created by York University Digital Library
 
 ### Islandora object
 
-York University Digital Library canonical URIs are consistently constructed in the folloiwng manner:
+York University Digital Library canonical URIs are consistently constructed in the following manner:
 
 * `/islandora/object/PID`
 
@@ -28,7 +28,7 @@ Example:
 
 ### Islandora object datastream
 
-York University Digital Library object datastream canonical URIs are consistently constructed in the folloiwng manner:
+York University Digital Library object datastream canonical URIs are consistently constructed in the following manner:
 
 * `/islandora/object/PID/datastream/DATASTREAM_NAME/view`
 * `/islandora/object/PID/datastream/DATASTREAM_NAME/download`
@@ -51,7 +51,7 @@ Audio:
 Book:
 
 * `TN` (Thumbnail)
-* `ORIGINAL_PDF` (Only for 
+* `ORIGINAL_PDF` (Only for
 Buddhism Across Boundaries: Buddhist Periodicals and Books from Colonial Burma collection )
 
 Images:
