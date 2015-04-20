@@ -2,11 +2,11 @@
 
 ### Description
 
-This repository represents the version controlled draft versions of York University Libraries' digital preservation policy and documentation. The public and canonical version of the documents live at [YUDL](http://digital.library.yorku.ca/) in the 'Documentation' dropdown menu.
+This repository represents the version controlled draft versions of York University Libraries' [digital preservation policy and documentation](https://digital.library.yorku.ca/tags/digital-preservation-policy). The public and canonical version of the documents live at [YUDL](http://digital.library.yorku.ca/) in the 'Documentation' dropdown menu.
 
 ### Thanks
 
-Much of this documentation was insprired and derived from the [Trusted Digital Repository documentation](http://spotdocs.scholarsportal.info/display/OAIS/Document+Checklist) that Scholars Portal created during their ISO 16363 Audit.
+Much of this documentation was insprired and derived from the [Trusted Digital Repository documentation](http://spotdocs.scholarsportal.info/display/OAIS/Document+Checklist) that Scholars Portal created during their [ISO 16363](http://www.iso16363.org/) Audit.
 
 ### License
 
