@@ -10,15 +10,11 @@ Data backup at York University Library is coordinated through Library Computing 
 
 2.1 Database Backup
 
-This backup strategy applies to content that is stored in a database. Primarily, this refers to objects located in YUDL's databases (MySQL and Derby).
+This backup strategy applies to content that is stored in a database. Primarily, this refers to objects located in YUDL's databases (MySQL).
 
 2.1.1 MySQL Database Backup Strategy
 
 * Database dumps are backed up daily and taken off site. Each backup is kept for 60 days.
-
-2.1.2 Derby Database Backup Strategy
-
-* The Derby database is included in the Fedora Commons backup strategy.
 
 2.2 Application Backup
 
