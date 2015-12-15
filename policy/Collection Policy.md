@@ -29,7 +29,7 @@ All objects included in York University Digital Library are intended to be retai
 
 #### Acknowledgements
 
-Adapted and inspired by:
+Adapted from and inspired by:
 
 * University of North Texas "[Collection Development Policy for the UNT Libraries' Digital Collections](http://www.library.unt.edu/policies/collection-development/collection-development-policy-unt-libraries-digital-collections)"
 * OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
