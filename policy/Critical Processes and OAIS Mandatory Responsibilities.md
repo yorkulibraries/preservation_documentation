@@ -21,3 +21,8 @@
 7.  OAIS 3.1: "Make the preserved information available to the Designated Community."
   * York University Libraries disseminates the information to its Designated Community through its own user interfaces. See the [Definition of DIP](https://digital.library.yorku.ca/documentation/definition-dip) for more information about the repository's dissemination process. Depending on the license, access may be restricted to users affiliated with the York University community. See the Access Policy for more information.
 
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

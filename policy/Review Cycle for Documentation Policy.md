@@ -11,3 +11,9 @@ The policies surrounding the operations of York University Digital Library as a 
 * Documentation history/versioning
   * All York University Libraries digital preservation policy and documentation is done in the [Markdown](http://en.wikipedia.org/wiki/Markdown) format.
   * All York University Libraries digital preservation policy and documentation is version controlled using [Git](http://en.wikipedia.org/wiki/Git_%28software%29), and available in the [York University Libraries Github Organization](https://github.com/yorkulibraries/preservation_documentation).
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

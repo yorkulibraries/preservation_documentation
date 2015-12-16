@@ -35,3 +35,8 @@ Compliance with all of these criteria is necessary for an object to be subject t
 
 **Review and Revision**: YUL commits to the review and revision of its preservation practices and the corresponding documentation, as outlined in the [Review Cycle for Documentation Policy](https://digital.library.yorku.ca/documentation/review-cycle-documentation-policy).
 
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

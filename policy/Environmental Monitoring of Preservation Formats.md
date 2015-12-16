@@ -35,3 +35,9 @@ A partial list of resources monitored includes, but is not limited to:
 * [Journal of Digital Information](http://journals.tdl.org/jodi)
 * [Journal of Electronic Publishing](http://www.journalofelectronicpublishing.org/)
 * [World Digital Libraries](http://bookstore.teriin.org/journal_inside.php?material_id=477&qty=1)
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

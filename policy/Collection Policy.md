@@ -34,3 +34,9 @@ Adapted from and inspired by:
 * University of North Texas "[Collection Development Policy for the UNT Libraries' Digital Collections](http://www.library.unt.edu/policies/collection-development/collection-development-policy-unt-libraries-digital-collections)"
 * OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
 * University of Vermont Libraries "[CDI Collection Development Policy](http://cdi.uvm.edu/about/colldev)"
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

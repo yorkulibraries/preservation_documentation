@@ -64,3 +64,9 @@ Example characterization and reference to format registry:
       </metadata>
     </fits>
 </pre>
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

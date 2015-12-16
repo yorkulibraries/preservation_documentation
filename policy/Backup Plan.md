@@ -33,3 +33,9 @@ This backup strategy applies to content that is stored in a database. Primarily,
 2.3 Objects
 
 * Fedora objects are backed up daily and taken off site. Each backup is kept for 60 days.
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

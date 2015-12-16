@@ -27,3 +27,9 @@ These preservation activities are applied to materials in the repository accordi
 **Full Preservation**: Items preserved at this level will receive the benefit of all of the above-mentioned preservation activities, as appropriate. Upon ingest into the repository, the material will undergo file format identification and normalization/transformation to archival file formats. As time goes on, these formats will be monitored by YUL staff, and should the criteria for format migration be met, the files will be migrated to a new format. In addition, all activities associated with the “Bit-level Preservation” preservation level will be carried out.
 
 **No Preservation**: In rare cases, the repository may contain material for which YUL is unable or unwilling to accept preservation responsibility. Although incidental preservation activities may take place upon this material, YUL accepts no responsibility for its long-term accessibility or validity. This level is an exception to YUL’s digital preservation activities, rather than a part of its preservation strategy, but is included here for completeness. Examples of materials at this level would include objects that are known to be corrupt or not authorized for preservation at any level but which, for some reason, cannot be deleted immediately.
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

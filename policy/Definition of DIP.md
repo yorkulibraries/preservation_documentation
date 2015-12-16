@@ -8,3 +8,9 @@
 * The user is first authenticated, and will, depending on their level of access, see basic object metadata, and a link to the object article as available.
 * Context information is provided in the form of links to other items in a given collection.
 * The DIP is retrieved using the URI for the corresponding AIP. In turn, the AIP contains metadata tying it back to the SIP.
+
+#### License
+
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)
