@@ -28,6 +28,12 @@ These preservation activities are applied to materials in the repository accordi
 
 **No Preservation**: In rare cases, the repository may contain material for which YUL is unable or unwilling to accept preservation responsibility. Although incidental preservation activities may take place upon this material, YUL accepts no responsibility for its long-term accessibility or validity. This level is an exception to YUL’s digital preservation activities, rather than a part of its preservation strategy, but is included here for completeness. Examples of materials at this level would include objects that are known to be corrupt or not authorized for preservation at any level but which, for some reason, cannot be deleted immediately.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
 #### License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")

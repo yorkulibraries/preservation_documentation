@@ -10,6 +10,12 @@ At the time of ingest an MD5 checksum value is calculated for the archival forma
 
 Daily, a set number of  files in the repository will have their current checksum calculated (using a single checksum) and compared to this stored value, which is expected to match. In cases where the calculated and stored values do not match, this is reported to the repository manager.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
 #### License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")

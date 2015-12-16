@@ -12,6 +12,12 @@ York University Digital Library requires thorough, well-structured metadata in o
 * Each object in YUDL has a POLICY (XACML) datastream for AuthZ.
 * YUDL utilizes the PREMIS (Preservation Metadata Implementation Strategy) vocabulary via [Islandora PREMIS](https://github.com/islandora/islandora_premis). PREMIS's data dictionary provides ways of describing objects and processes that are necessary for digital preservation. YUDL makes use of the objects, events and rights entities described in the PREMIS Data Model.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
 #### License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")

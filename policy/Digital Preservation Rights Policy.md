@@ -10,6 +10,12 @@ Content providers granting this right have consented to having their content mig
 
 Without this right having been assigned, York University Library can only ensure file integrity, not the preservation of the intellectual contents of an archival unit.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
 #### License
 
 ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
