@@ -16,7 +16,7 @@ York University Digital Library requires thorough, well-structured metadata in o
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Metadata Specifications](https://spotdocs.scholarsportal.info/display/OAIS/Metadata+Specifications)".
 
 #### License
 

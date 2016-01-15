@@ -69,7 +69,7 @@ Example characterization and reference to format registry:
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Registry of File Formats](https://spotdocs.scholarsportal.info/display/OAIS/Registry+of+File+Formats)".
 
 #### License
 

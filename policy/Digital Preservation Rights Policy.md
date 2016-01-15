@@ -14,7 +14,7 @@ Without this right having been assigned, York University Library can only ensure
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Scholars Portal Rights Policy](https://spotdocs.scholarsportal.info/display/OAIS/Scholars+Portal+Rights+Policy)".
 
 #### License
 

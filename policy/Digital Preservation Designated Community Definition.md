@@ -22,7 +22,7 @@ Secondary user communities include:
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Designated Community Definition](https://spotdocs.scholarsportal.info/display/OAIS/Designated+Community+Definition)".
 
 #### License
 

@@ -40,7 +40,7 @@ A partial list of resources monitored includes, but is not limited to:
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Environmental Monitoring of Preservation Formats](https://spotdocs.scholarsportal.info/display/OAIS/Environmental+Monitoring+of+Preservation+Formats)".
 
 #### License
 

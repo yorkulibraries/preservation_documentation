@@ -39,7 +39,7 @@ Compliance with all of these criteria is necessary for an object to be subject t
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Scholars Portal Preservation Strategic Plan](https://spotdocs.scholarsportal.info/display/OAIS/Scholars+Portal+Preservation+Strategic+Plan)".
 
 #### License
 

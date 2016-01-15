@@ -32,7 +32,7 @@ These preservation activities are applied to materials in the repository accordi
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Preservation Implementation Plan](https://spotdocs.scholarsportal.info/display/OAIS/Preservation+Implementation+Plan)".
 
 #### License
 

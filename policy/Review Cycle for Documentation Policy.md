@@ -16,7 +16,7 @@ The policies surrounding the operations of York University Digital Library as a 
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Review Cycle for Documentation Policy](https://spotdocs.scholarsportal.info/display/OAIS/Review+Cycle+for+Documentation+Policy)".
 
 #### License
 

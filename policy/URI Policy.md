@@ -84,7 +84,7 @@ Web ARChive:
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[URI & File Naming Plan](https://spotdocs.scholarsportal.info/pages/viewpage.action?pageId=89916855)".
 
 #### License
 

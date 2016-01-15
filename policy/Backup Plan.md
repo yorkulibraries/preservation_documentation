@@ -38,7 +38,7 @@ This backup strategy applies to content that is stored in a database. Primarily,
 
 Adapted from and inspired by:
 
-* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+* OCUL's Scholars Portal "[Backup Plan](https://spotdocs.scholarsportal.info/display/OAIS/Backup+Plan)".
 
 #### License
 
