@@ -10,7 +10,7 @@ The policies surrounding the operations of York University Digital Library as a 
   * York University Libraries's preservation policy and all its related documents will be reviewed every two years in its entirety. This review will be led by the York University Libaries staff member responsible for digital preservation, in consultation with a representative sample of staff from York University Libraries.
 * Documentation history/versioning
   * All York University Libraries digital preservation policy and documentation is done in the [Markdown](http://en.wikipedia.org/wiki/Markdown) format.
-  * All York University Libraries digital preservation policy and documentation is version controlled using [Git](http://en.wikipedia.org/wiki/Git_%28software%29), and available in the [York University Libraries Github Organization](https://github.com/yorkulibraries/preservation_documentation).
+  * All York University Libraries digital preservation policy and documentation is version controlled using [Git](http://en.wikipedia.org/wiki/Git_%28software%29), and available in the [York University Libraries GitHub Organization](https://github.com/yorkulibraries/preservation_documentation).
 
 #### Acknowledgements
 

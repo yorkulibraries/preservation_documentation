@@ -2,7 +2,7 @@
 
 ### YUL Digital Preservation: Strategic Plan
 
-“[Preservation is not a place into which content is put for safe-keeping, but rather, it is a process in which content evolves proactively and reactively through the application of strategy-embodying services.](http://ijdc.net/index.php/ijdc/article/viewFile/98/73)” 
+“[Preservation is not a place into which content is put for safe-keeping, but rather, it is a process in which content evolves proactively and reactively through the application of strategy-embodying services.](http://ijdc.net/index.php/ijdc/article/viewFile/98/73)”
 
 The purpose of the York University Library Digital Preservation Plan is to outline the digital preservation strategy used by York University Library to ensure continued access to its digital collections by the Designated Community.
 
@@ -16,7 +16,7 @@ The following properties are those which will be prioritized in all preservation
 
 Secondary considerations in preservation include the following items. While not strictly a part of the intellectual content of the preservation object, these properties are necessary to ensure its preservation and as such must be tracked as well:
 
-- The object’s chain of custody, starting as early as possible but at the very least from the time it entered the repository. This information is necessary in order to understand the history of the object, and to denote any transformations or changes that have occurred to the content. 
+- The object’s chain of custody, starting as early as possible but at the very least from the time it entered the repository. This information is necessary in order to understand the history of the object, and to denote any transformations or changes that have occurred to the content.
 - Information on the object’s representation. For every digital object, some level of interpretation is necessary in order to transform the object from binary data into a human interpretable item.
 - Fixity information. The repository will keep sufficient metadata on the object to ensure at any point in the future that the object remains in a complete and uncorrupted state.
 
@@ -27,7 +27,7 @@ The preservation of the above properties will be carried out using a transformat
 The criteria to be assessed when determining preservation level include:
 
 - Rights: YUL should have appropriate rights to preserve the material in a matter consistent with its Preservation Strategies. At a minimum, YUL should have the right to locally load the content for archival purposes. In most cases, this should also include the ability to transform the content into new formats in the event that an existing one should become obsolete.
-- Appropriate metadata: Content to be ingested into the repository should be accompanied by metadata sufficient to provide a meaninful context to the content, as understood by the Designated Community. This can include information situating the content withing its universe (e.g., keywords, bibliographic metadata) or information contributing to the object’s usability (e.g., dataset codebooks). The criteria for acceptabilty under this measure will be defined on a Content Type basis.
+- Appropriate metadata: Content to be ingested into the repository should be accompanied by metadata sufficient to provide a meaningful context to the content, as understood by the Designated Community. This can include information situating the content withing its universe (e.g., keywords, bibliographic metadata) or information contributing to the object’s usability (e.g., dataset codebooks). The criteria for acceptability under this measure will be defined on a Content Type basis.
 - Validity: The content object must be a well-formed and valid instance of the type of object it purports to be.
 - Format Appropriateness: YUL will, for each Content Type, maintain a list of formats which will be deemed as acceptable for long-term preservation. This list will be based on the needs of the Designated Community, as well as the format’s future prospects for migration.
 
