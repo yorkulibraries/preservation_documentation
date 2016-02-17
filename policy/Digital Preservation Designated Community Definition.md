@@ -7,14 +7,15 @@ York University Libraries' primary user community consists of, York University:
 * Faculty
 * Staff
 * Students
+* Affiliated researchers
 
 Secondary user communities include:
 
-* Global community of researchers
-* Wider community of scholarship
+* Global community of scholarship
 * Local community
 * Elementary and secondary schools
-* Journalist and data consumers 
+* Journalists
+* Data consumers
 * General public
 * Incidental users
 

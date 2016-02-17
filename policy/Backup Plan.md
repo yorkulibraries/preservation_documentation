@@ -2,11 +2,11 @@
 
 **1. Policy Statement**
 
-As part of YUL's implementation of the Bit-stream Copying Preservation Strategy (as detailed in the [Preservation Implementation Plan](https://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan)), YUL is committed to regular backup procedures of both data storage areas and its operational areas (e.g. databases, application files). These backups are intended to serve as the basis for restoration of York University Library materials in the case of disaster recovery or corruption of data.
+As part of York University Libraries (YUL) implementation of the Bit-stream Copying Preservation Strategy (as detailed in the [Preservation Implementation Plan](https://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan)), YUL is committed to regular backup procedures of both data storage areas and its operational areas (e.g. databases, application files). These backups are intended to serve as the basis for restoration of York University Digital Library (YUDL) materials in the case of disaster recovery or corruption of data.
 
-Data backup at York University Library is coordinated through Library Computing Systems and University Information Technology. Since the data is stored on physical hardware located in the university data centre, it uses the same backup hardware and software as the general university systems.
+Data backup at YUL is coordinated through Library Computing Systems and University Information Technology. Since the data is stored on physical hardware located in the YUL data centre, it uses the same backup hardware and software as the general university systems.
 
-**2. Implementation Examples**
+**2. Implementation**
 
 2.1 Database Backup
 
@@ -33,6 +33,10 @@ This backup strategy applies to content that is stored in a database. Primarily,
 2.3 Objects
 
 * Fedora objects are backed up daily and taken off site. Each backup is kept for 60 days.
+
+2.4 Verification
+
+* Quarterly disaster recovery drills coordinated between the Digital Assets Librarian and YUL Library Computing Systems to test system verification.
 
 #### Acknowledgements
 
