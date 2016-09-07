@@ -12,8 +12,8 @@ For inclusion within York University Digital Library, objects must meet all Leve
 
 Each item must:
 
-* Be in the public domain, or have documented, non-revocable permission granted by the copyright holder, or fall under the fair dealing clause for educational use, in accordance with [York University Fair Dealing Guidelines](http://copyright.info.yorku.ca/fair-dealing-requirements-for-york-faculty-and-staff/).
-* Be intended for public viewing and use
+* Be in the public domain, or have documented, non-revocable permission granted by the copyright holder.
+* Be intended for non-commercial public viewing, and educational/research and use.
 * Be complete, such as an entire publication, article, etc., and not a "part" such as an abstract, forward, or title page
 * Meet the standards required for long-term digital curation, as described by documentation of [York University Digital Library content types](https://digital.library.yorku.ca/documentation/content-types)  
 * Be in a standard format accessible through current file viewers or have a documented conversion path to move the format into a standard format
