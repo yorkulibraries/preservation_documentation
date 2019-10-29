@@ -1,5 +1,3 @@
-## Web Archives - Preservation Action Plan
-
 #### Introduction
 
 This document describes the preservation plan for web archives content in the York University Digital Library. Most of the web archive content content is York University web sites. The preservation plan for web archives content follows from policies and practices described in the [Digital Preservation Strategic Plan](http://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan](http://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan). This document explains practical steps that York University Libraries take to preserve the intellectual content of web archives in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of web archive content.
@@ -32,3 +30,14 @@ When necessary, York University Libraries crosswalk descriptive metadata from MO
 
 For the Full Preservation level for web archives, currently the only acceptable format is WARC.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
+#### License
+
+![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)

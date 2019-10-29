@@ -1,5 +1,3 @@
-## Video - Preservation Action Plan
-
 #### Introduction
 
 This document describes the preservation plan for video content in the York University Digital Library. Most of the video content content is from the Sound and Moving Image Library and the Clara Thomas Archives and Special Collections. The preservation plan for video content follows from policies and practices described in the [Digital Preservation Strategic Plan](http://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan) and the [Digital Preservation Implementation Plan](http://digital.library.yorku.ca/documentation/digital-preservation-implementation-plan). This document explains practical steps that York University Libraries take to preserve the intellectual content of video in digital format. It outlines the basic tools, methods, and standards used for the long-term preservation of video content.
@@ -32,3 +30,14 @@ When necessary, York University Libraries crosswalk descriptive metadata from MO
 
 For the Full Preservation level for video, currently the acceptable formats are AVI. Video submissions may be MPEG, MP4, OGG, MKV, or Quicktime format, however they will be preserved at the Bit-level Preservation level.
 
+#### Acknowledgements
+
+Adapted from and inspired by:
+
+* OCUL's Scholars Portal "[Collection Policy](https://spotdocs.scholarsportal.info/display/OAIS/Collection+Policy)".
+
+#### License
+
+![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")
+
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/)
