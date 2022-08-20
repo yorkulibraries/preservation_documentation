@@ -1,7 +1,7 @@
 ## Critical Processes and OAIS Mandatory Responsibilities
 
 1. Introduction
-  * This document traces critical processes employed by York University Libraries (YUL) to meet the "mandatory responsibilities" of a digital repository as described in [OAIS](http://public.ccsds.org/publications/archive/650x0b1.pdf). This document identifies which processes are necessary for the repository to fulfill its mandatory responsibilities.
+  * This document traces critical processes employed by York University Libraries (YUL) to meet the "mandatory responsibilities" of a digital repository as described in [OAIS](https://public.ccsds.org/Pubs/650x0b1s.pdf). This document identifies which processes are necessary for the repository to fulfill its mandatory responsibilities.
 2. OAIS 3.1: "Negotiate for and accept appropriate information from information Producers."
   * YUL has a clearly defined process for negotiating with producers and ensuring that it acquires appropriate information. See the [Rights Policy](https://digital.library.yorku.ca/documentation/digital-preservation-rights-policy) for more information.
 3. OAIS 3.1: "Obtain sufficient control of the information provided to the level needed to ensure Long-Term Preservation."
