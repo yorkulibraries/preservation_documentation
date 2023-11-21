@@ -1,5 +1,9 @@
 ## Preservation Documentation, York University Libraries
 
+### Note
+
+This repository is now archived. Preservation documentation is available [here](https://www.library.yorku.ca/web/about-us/library-policies/digital-preservation-policy/).
+
 ### Description
 
 This repository represents the version controlled draft versions of York University Libraries' [digital preservation policy and documentation](https://digital.library.yorku.ca/tags/digital-preservation-policy). The public and canonical version of the documents live at [YUDL](http://digital.library.yorku.ca/) in the 'Documentation' dropdown menu.
